@@ -575,12 +575,15 @@
 
    .text_66:hover {
       color: black;
+      cursor: pointer;
    }
 
    .textemesdeses:hover {
       color: black;
+      cursor: pointer;
    }
 
    .text_41:hover {
       color: black;
+      cursor: pointer;
    }
